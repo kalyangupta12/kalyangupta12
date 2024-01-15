@@ -1,3 +1,5 @@
+![212749171-b84692a8-2b04-4e3b-93ca-ac14705da224](https://github.com/kalyangupta12/kalyangupta12/assets/90916009/f25a8e16-90b0-48ac-80a8-0b72bef51d07)
+
 <h1 align="center">Hi 👋, I'm Kalyan Gupta</h1>
 <h3 align="center">BCA 2nd-year undergrad at Dibrugarh University | Co-Lead at Google Developer Students Club | Proficient in C, C++, Java | Passionate about Web Development. Open to tech opportunities and collaborations.</h3>
 
@@ -8,11 +10,11 @@
 - 🌱 I’m currently learning **React, Tailwind**
 
 - 👯 I’m looking to collaborate on **web app projects**
-
+                                                                !
 - 💬 Ask me about **gsap**
 
 - 📫 How to reach me **kalyangupta2002@gmail.com**
-
+[octocat-1705336010820](https://github.com/kalyangupta12/kalyangupta12/assets/90916009/6603c6e9-4db4-4b4a-8be4-f427f7e3670b)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kalyangupta12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalyangupta12" height="30" width="40" /></a>
