@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="c" width="100%" height="100%" />
+<img src="https://i.ibb.co/0nWNnvr/octocat-1705336010820.png" alt="" align="right" width="20%"/>
 
 
 <h1 align="center">Hi 👋, I'm Kalyan Gupta</h1>
