@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently a Web Development Trainee at **NIELIT JORHAT EC**
 
-- 🌱 I’m currently learning **React, Tailwind**
+- 🌱 I’m currently learning **PHP, Laravel**
 
 - 👯 I’m looking to collaborate on **web app projects**
                                                                 !
-- 💬 Ask me about **gsap**
+- 💬 Ask me about **Tailwind, Bootstrap**
 
 - 📫 How to reach me **kalyangupta2002@gmail.com**
 <h3 align="left">Connect with me:</h3>
