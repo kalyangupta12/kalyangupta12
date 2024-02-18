@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a Web Development Trainee at **NIELIT JORHAT EC**
 
-- 🌱 I’m currently learning **PHP, Laravel**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **web app projects**
                                                                 !
