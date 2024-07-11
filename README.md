@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **web app projects**
                                                                 !
-- 💬 Ask me about **Tailwind, Bootstrap**
+- 💬 Ask me about **GCP**
 
 - 📫 How to reach me **kalyangupta2002@gmail.com**
 <h3 align="left">Connect with me:</h3>
