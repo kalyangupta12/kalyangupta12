@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kalyan Gupta</h1>
-<h3 align="center">BCA 2nd-year undergrad at Dibrugarh University | Co-Lead at Google Developer Students Club | Proficient in C, C++, Java | Passionate about Web Development. Open to tech opportunities and collaborations.</h3>
+<h3 align="center">BCA 3rd-year undergrad at Dibrugarh University | Co-Lead at Google Developer Students Club | Proficient in C, C++, Java | Passionate about Web Development. Open to tech opportunities and collaborations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyangupta12&label=Profile%20views&color=0e75b6&style=flat" alt="kalyangupta12" /> </p>
 
