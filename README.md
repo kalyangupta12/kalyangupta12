@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyangupta12&label=Profile%20views&color=0e75b6&style=flat" alt="kalyangupta12" /> </p>
 
-- 🔭 I’m currently making projects on MERN
+- 🔭 I’m currently making projects on MERN & PHP
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **web app projects**
                                                                 !
-- 💬 Ask me about **GCP**
+- 💬 Ask me about **GCP, AWS**
 
 - 📫 How to reach me **kalyangupta2002@gmail.com**
 <h3 align="left">Connect with me:</h3>
