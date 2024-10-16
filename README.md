@@ -1,6 +1,7 @@
 <img src="https://i.ibb.co/0nWNnvr/octocat-1705336010820.png" alt="" align="right" width="20%"/>
 
-<a href="https://app.daily.dev/kalyangupta"><img src="https://api.daily.dev/devcards/v2/TfcVq0jXA9PTTqAWCANTv.png?type=wide&r=sqb" width="652" alt="Kalyan Gupta's Dev Card"/></a><h1 align="center">Hi 👋, I'm Kalyan Gupta</h1>
+<a href="https://app.daily.dev/kalyangupta"><img src="https://api.daily.dev/devcards/v2/TfcVq0jXA9PTTqAWCANTv.png?type=default&r=mf7" width="356" alt="Kalyan Gupta's Dev Card"/></a>
+<h1 align="center">Hi 👋, I'm Kalyan Gupta</h1>
 <h3 align="center">BCA 3rd-year undergrad at Dibrugarh University | Co-Lead at Google Developer Students Club | Proficient in C, C++, Java | Passionate about Web Development. Open to tech opportunities and collaborations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyangupta12&label=Profile%20views&color=0e75b6&style=flat" alt="kalyangupta12" /> </p>
