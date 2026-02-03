@@ -20,7 +20,7 @@ Building Scalable Web Apps & AI-Powered Products 🚀
 - 🔭 Currently building **Full-Stack MERN, Next.js & AI (RAG) Projects**
 - 🌱 Deep diving into **Generative AI & Backend Architecture**
 - 👯 Open to **Web Apps, AI Tools & Startup Collaborations**
-- 💬 Ask me about **React, Node.js, Express, Prisma, PostgreSQL, GCP, AWS**
+- 💬 Ask me about **LangChain, AgentSDK's**
 - 📫 Reach me at **kalyangupta2002@gmail.com**
 
 ---
@@ -35,7 +35,7 @@ Building Scalable Web Apps & AI-Powered Products 🚀
 ---
 
 #### ⚡ Tech Stack
-<p align="left">
+<!-- <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.simpleicons.org/nextdotjs" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
@@ -47,8 +47,10 @@ Building Scalable Web Apps & AI-Powered Products 🚀
 <img src="https://cdn.simpleicons.org/googlegemini/skyblue" width="40"/>
 <img src="https://cdn.simpleicons.org/anthropic" width="40"/>
 <img src="https://cdn.simpleicons.org/langchain" width="40"/>
+</p> -->
+<p align='left'>
+    <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,prisma,postgresql,aws,gcp" />
 </p>
-
 
 ---
 
